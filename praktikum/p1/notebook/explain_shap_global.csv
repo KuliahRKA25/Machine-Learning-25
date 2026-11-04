@@ -1,0 +1,153 @@
+feature,mean_abs
+job_title,0.9928778497590999
+salary_usd,0.701103109341332
+seniority_rank,0.3544294162104339
+seniority_MID,0.3334475166542047
+age_sq,0.1932118338966496
+salary_log,0.18631748541214993
+sen_x_salary,0.15911623442253975
+age,0.1577720720313284
+years_experience_sq,0.1547494995835867
+tenure_years,0.15029569071033547
+sen_x_exp,0.13042130961899276
+perf_per_exp,0.11217975930105054
+salary_per_exp,0.11115071901955942
+salary_per_age,0.09958551985467674
+jt_sen_senior,0.09465958744540914
+age_log,0.09280550672904735
+tenure_over_age,0.08000868833289225
+gender_MALE,0.07853791945278292
+salary_rank_pct,0.07009562540020986
+salary_per_tenure,0.06754018258630834
+years_experience_log,0.05996877994310463
+performance_review_score,0.04988827072608492
+seniority_MANAGER,0.043093995199411796
+cat_department,0.042368952969317045
+perf_x_tenure,0.041289495399645874
+jt_seniority,0.04105180961859375
+age_minus_exp,0.03963581654571028
+salary_x_exp,0.037733536061151575
+gender_FEMALE,0.03566700706097932
+salary_usd_log,0.02973134296167939
+years_experience,0.02960053301622969
+salary_usd_sq,0.027466037356636365
+country_BRAZIL,0.02494328435181816
+age_minus_tenure,0.02275925515862712
+import_batch,0.021895380182736342
+seniority_LEAD,0.020263951934634407
+salary_x_perf,0.019051108147833597
+tenure_over_exp,0.018371497146999656
+ethnicity_WHITE,0.017752850587151852
+perf_x_exp,0.017590638965040668
+country_PHILIPPINES,0.016617200381262475
+exp_minus_tenure,0.014651184558286448
+seniority_UNKNOWN,0.013978912386322788
+remote_status_ONSITE,0.013096199203938673
+jt_len,0.00866970732110887
+years_experience_missing,0.008638933085849275
+jt_sen_lead,0.008600092686736076
+job_domain_OTHER,0.00820270337947624
+cat_gender,0.008054218814543457
+jt_sen_manager,0.008026717714291564
+remote_status_REMOTE,0.007734584143732353
+source_dataset_SURVEY_RESPONSE_2024,0.007612476237655269
+salary_usd_missing,0.006255825501054456
+source_dataset_HRIS_EXPORT_2023,0.0045800890432904015
+cat_country,0.0044394636167184144
+age_missing,0.004357607375272917
+ethnicity_ASIAN,0.0039909306148173725
+performance_rating_EXCEEDS,0.0038403159334515925
+job_domain_DATA,0.0038283473645293136
+cat_ethnicity,0.0032941056159770305
+department_OPERATIONS,0.0032443189931258905
+cat_remote_status,0.0031025765712447565
+jt_fam_product,0.0030278726890347473
+is_high_tier,0.002773823321478913
+country_INDIA,0.002660503944082437
+career_start_age,0.002292953274880812
+country_CANADA,0.0018627113794962864
+seniority_VICE PRESIDENT,0.0018415528368423844
+education_level_MASTERS DEGREE,0.001822253142603371
+department_FINANCE,0.0016813015237665844
+department_SALES,0.001611165533574412
+jt_fam_design,0.0015779582156513882
+country_NIGERIA,0.0015690645184009847
+jt_fam_hr,0.0015192053865675688
+ethnicity_HISPANIC OR LATINO,0.0014459150127451928
+country_AUSTRALIA,0.0011635132282056793
+jt_fam_finance,0.0009003190810234309
+gender_NONBINARY,0.0006209611325008956
+jt_sen_head,0.0005735572866215457
+gender_OTHER,0.0003740699043896606
+jt_sen_staff,0.0003051490826675925
+seniority_STAFF,0.0002986608228528777
+country_SOUTH AFRICA,0.0
+country_SINGAPORE,0.0
+country_NETHERLANDS,0.0
+country_FRANCE,0.0
+country_GERMANY,0.0
+country_KENYA,0.0
+country_UNITED STATES,0.0
+country_UNITED KINGDOM,0.0
+remote_status_HYBRID,0.0
+tenure_years_missing,0.0
+source_dataset_ACQUIRED_COMPANY_LEGACY,0.0
+education_level_PHD,0.0
+education_level_HIGH SCHOOL,0.0
+performance_rating_MEETS,0.0
+performance_review_score_missing,0.0
+ethnicity_PREFER NOT TO SAY,0.0
+ethnicity_PACIFIC ISLANDER,0.0
+ethnicity_NATIVE AMERICAN,0.0
+ethnicity_BLACK OR AFRICAN AMERICAN,0.0
+gender_PREFER NOT TO SAY,0.0
+education_level_ASSOCIATE DEGREE,0.0
+education_level_BACHELORS DEGREE,0.0
+department_ENGINEERING,0.0
+department_DESIGN,0.0
+department_DATA SCIENCE,0.0
+department_CUSTOMER SUPPORT,0.0
+job_domain_SUPPORT,0.0
+job_domain_SALES,0.0
+job_domain_PRODUCT,0.0
+job_domain_OPERATIONS,0.0
+department_PRODUCT,0.0
+department_MARKETING,0.0
+department_INFORMATION TECHNOLOGY,0.0
+department_LEGAL,0.0
+department_HUMAN RESOURCES,0.0
+seniority_HEAD,0.0
+seniority_C-LEVEL,0.0
+seniority_SENIOR,0.0
+job_domain_HR,0.0
+job_domain_MARKETING,0.0
+job_domain_LEGAL,0.0
+job_domain_IT,0.0
+job_domain_ENGINEERING,0.0
+job_domain_FINANCE,0.0
+job_domain_DESIGN,0.0
+performance_rating_BELOW,0.0
+ethnicity_TWO OR MORE RACES,0.0
+cat_education_level,0.0
+cat_performance_rating,0.0
+exp_over_age,0.0
+cat_source_dataset,0.0
+jt_word_count,0.0
+jt_sen_principal,0.0
+jt_sen_junior,0.0
+jt_fam_data,0.0
+jt_fam_engineering,0.0
+jt_sen_c_level,0.0
+jt_sen_vp,0.0
+jt_sen_director,0.0
+jt_sen_intern,0.0
+jt_fam_sales,0.0
+jt_fam_marketing,0.0
+jt_fam_operations,0.0
+jt_fam_legal,0.0
+jt_fam_support,0.0
+jt_fam_c_suite,0.0
+x_country_dept,0.0
+jt_family,0.0
+x_family_seniority,0.0
+x_dept_family,0.0
