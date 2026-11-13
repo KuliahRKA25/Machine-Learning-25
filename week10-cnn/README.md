@@ -1,0 +1,1 @@
+DEPLOY: https://ryu2804--fashion-mnist-cnn-ui.us-east.modal.run/
